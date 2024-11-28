@@ -8,7 +8,7 @@
 <li>Menerapkan tampilan website yang menarik.</li>
 </ul>
 
-<p>Asset image berbeda dengan preview dikarenakan penggunaan aset image tersebut digunakan hanya saat preview saja.</p>
+<p><b>Asset image berbeda dengan preview dikarenakan penggunaan aset image tersebut hanya untuk preview.</b></p>
 
 ![Alt Text](https://github.com/ArvianRanditya/Belajar-Dasar-Pemrograman-Web-DicodingxIDCamp-Website-Informasi-Kota-Semarang-/blob/main/image%20README/01_Preview.png)
 <p>Source gambar 1: https://images.app.goo.gl/WnS1qL7qAAiqC9cD8 </p>
